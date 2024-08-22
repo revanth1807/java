@@ -1,0 +1,14 @@
+import java.io.*;
+import java.util.Scanner;
+class Area
+{
+    double r;
+    double area()
+    {
+        return (22/7.0)*r*r;
+    }
+}
+public class A2.r=sc.nextDouble();
+    System.out.println("The area of 1st circle is:"+a1.area());
+    System.out.println("The area of 2nd circle is:"+a2.area());
+}
