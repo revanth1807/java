@@ -26,7 +26,5 @@ public class Calculator
 	            break;
       default:System.out.println("Enter a correct operator.");
 }
-
-}
 }
 }
